@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyApplication1</string>
+    <string name="text_view_hello">Илларионов Александр ПРИ-120</string>
+
+    <string name="editText1"></string>
+    <string name="b1">1</string>
+    <string name="b2">2</string>
+    <string name="b3">3</string>
+    <string name="b4">4</string>
+    <string name="b5">5</string>
+    <string name="b6">6</string>
+    <string name="b7">7</string>
+    <string name="b8">8</string>
+    <string name="b9">9</string>
+    <string name="b0">0</string>
+    <string name="bEquals">=</string>
+    <string name="bPoint">.</string>
+    <string name="bMulti">*</string>
+    <string name="bDivide">/</string>
+    <string name="bPlus">+</string>
+    <string name="bMinus">-</string>
+    <string name="bProcent">%</string>
+    <string name="bM">M</string>
+    <string name="bMC">MC</string>
+    <string name="firstActivityView"> FirstTextActivity </string>
+    <string name="callSecondActivity"> Call second activity </string>
+    <string name="callThirdActivity"> Call third activity </string>
+    <string name="secondActivity"> Second activity </string>
+    <string name="secondActivityTextEdit"></string>
+    <string name="goToFirstActivity"> Go to first activity </string>
+</resources>
